@@ -88,8 +88,6 @@
 
 ---
 
-### Используемые фреймворки
-
 ![PyTorch](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png)  
 ![Python](https://www.python.org/static/community_logos/python-logo.png)
 ![PIL](https://pillow.readthedocs.io/en/stable/_static/pillow-logo.png) 
