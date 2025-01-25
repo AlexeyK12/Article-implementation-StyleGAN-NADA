@@ -78,8 +78,13 @@
 
 ### Ссылки
 
+- [Архивная статья StyleGAN-NADA](https://arxiv.org/abs/2108.00946)
+- [Официальная реализация StyleGAN-NADA](https://stylegan-nada.github.io/)
+- [Предобученные модели StyleGAN-NADA](https://drive.google.com/drive/folders/1Z76nD8pXIL2O5f6xV8VjM4DUCmhbzn0l)
 - [Официальный репозиторий StyleGAN2](https://github.com/NVlabs/stylegan2)
 - [CLIP от OpenAI](https://github.com/openai/CLIP)
-- [Архивная статья StyleGAN-NADA](https://arxiv.org/abs/2108.00946)
+- [Официальная реализация CLIP](https://github.com/orpatashnik/StyleCLIP)
+- [GAN в задачах генерации изображений и речи](https://www.hse.ru/data/2024/08/05/2114700171/Аланов_резюме_05.08.2024.pdf)
+
 
 ---
