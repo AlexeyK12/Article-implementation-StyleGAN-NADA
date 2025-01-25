@@ -90,10 +90,10 @@
 
 ### Используемые фреймворки
 
-![PyTorch](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png)  
-![NumPy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)  
-![PIL](https://upload.wikimedia.org/wikipedia/commons/e/e0/Python_logo_and_wordmark.svg)  
-![TQDM](https://github.com/tqdm/tqdm/raw/master/images/tqdm.svg)  
-![IPython](https://upload.wikimedia.org/wikipedia/commons/3/3a/IPython_logo.svg)
+![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png)  
+![NumPy](https://numpy.org/images/logo.svg)  
+![PIL](https://pillow.readthedocs.io/en/stable/_static/pillow-logo.png)  
+![TQDM](https://raw.githubusercontent.com/tqdm/tqdm/master/images/logo.png)  
+![IPython](https://ipython.readthedocs.io/en/stable/_static/ipython.png)
 
 ---
