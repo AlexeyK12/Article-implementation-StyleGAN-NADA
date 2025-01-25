@@ -2,7 +2,7 @@
 
 [![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlexeyK12/Article-implementation-StyleGAN-NADA/blob/main/main.ipynb)
 
-# StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators
+[!Image](DALL·E hum-joker.webp)
 
 **StyleGAN-NADA** — это метод адаптации генераторов изображений (например, [StyleGAN2](https://github.com/NVlabs/stylegan2)) к новым доменам без необходимости аннотированных данных. 
 
