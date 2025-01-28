@@ -1,8 +1,9 @@
 # Имплементация статьи - "StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators"
 
-[![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlexeyK12/Article-implementation-StyleGAN-NADA/blob/main/main.ipynb)
+[![Прямая ссылка](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eUdDg8grtwCD2Y476LH4fbK8kUqJdqAf?usp=sharing)
 
-[![Open](https://img.shields.io/badge/-Open%20in%20Colab-orange?logo=google-colab&logoColor=white)](https://colab.research.google.com/drive/1eUdDg8grtwCD2Y476LH4fbK8kUqJdqAf?usp=sharing)
+
+[![Открыть в Colab](https://img.shields.io/badge/-Open%20in%20Colab-orange?logo=google-colab&logoColor=white)](https://colab.research.google.com/github/AlexeyK12/Article-implementation-StyleGAN-NADA/blob/main/main.ipynb)
 
 ![Image](DALL·E-hum-joker.png)
 
