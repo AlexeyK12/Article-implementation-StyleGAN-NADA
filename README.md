@@ -2,7 +2,7 @@
 
 [![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlexeyK12/Article-implementation-StyleGAN-NADA/blob/main/main.ipynb)
 
-![Прямая ссылка Colab](https://colab.research.google.com/drive/1eUdDg8grtwCD2Y476LH4fbK8kUqJdqAf?usp=sharing)
+[![Прямая ссылка Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eUdDg8grtwCD2Y476LH4fbK8kUqJdqAf?usp=sharing)
 
 ![Image](DALL·E-hum-joker.png)
 
