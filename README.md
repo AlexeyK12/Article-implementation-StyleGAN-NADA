@@ -3,7 +3,7 @@
 [![Прямая ссылка](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eUdDg8grtwCD2Y476LH4fbK8kUqJdqAf?usp=sharing)
 
 
-[![App in Colab](https://img.shields.io/badge/Colab-App%20in%20Colab-orange?logo=google-colab)](https://colab.research.google.com/github/AlexeyK12/Implementation-of-the-article-StyleGAN-NADA/blob/main/app_StyleGAN_NADA_AK_12.ipynb)
+[![App](https://img.shields.io/badge/Colab-App%20in%20Colab-orange?logo=google-colab)](https://colab.research.google.com/github/AlexeyK12/Implementation-of-the-article-StyleGAN-NADA/blob/main/app_StyleGAN_NADA_AK_12.ipynb)
 
 ![Image](DALL·E-hum-joker.png)
 
