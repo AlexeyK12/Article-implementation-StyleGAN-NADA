@@ -95,7 +95,7 @@
 ![Python](https://www.python.org/static/community_logos/python-logo.png)
 ![PIL](https://pillow.readthedocs.io/en/stable/_static/pillow-logo.png) 
 ![TQDM](https://github.com/tqdm/tqdm/blob/5faf18bd92ea2517c5e86d206597fcf5086fbbb4/images/logo.gif?raw=true)
-![Gradio](https://gradio.app/assets/Gradio-Horizontal-Logo-Small.svg)
+![Gradio](https://www.simplilearn.com/ice9/tools_covered/Gen-AI/Gradio.png)
 ![Colab](https://tech.fusic.co.jp/uploads/20180516134847.png)
 ![NumPy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg) 
 
