@@ -82,6 +82,7 @@
 ### Ссылки
 
 - [Архивная статья StyleGAN-NADA](https://arxiv.org/abs/2108.00946)
+- [Веса StyleGAN-FFHQ](https://huggingface.co/akhaliq/OneshotCLIP-stylegan2-ffhq/resolve/main/stylegan2-ffhq-config-f.pt)
 - [Официальная реализация StyleGAN-NADA](https://stylegan-nada.github.io/)
 - [Предобученные модели StyleGAN-NADA](https://drive.google.com/drive/folders/1Z76nD8pXIL2O5f6xV8VjM4DUCmhbzn0l)
 - [Официальный репозиторий StyleGAN2](https://github.com/NVlabs/stylegan2)
